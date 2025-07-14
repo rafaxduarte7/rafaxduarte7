@@ -21,7 +21,7 @@
 
 ---
 
-### 🎯 Sobre Mim
+### 🎯 Sobre mim
 
 - 💡 Curioso por tecnologias backend, banco de dados e otimização
 - 🧠 Sempre estudando boas práticas, arquitetura limpa e Java moderno
@@ -31,7 +31,8 @@
 
 ### 📫 Como me encontrar
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1188355759612903454)
+[![Discord Status](https://lanyard.cnrad.dev/api/1188355759612903454)](https://discord.com/users/1188355759612903454)
+
 
 *Ou me mande uma mensagem aqui pelo GitHub mesmo!*
 
