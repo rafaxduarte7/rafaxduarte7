@@ -31,8 +31,7 @@
 
 ### 📫 Como me encontrar
 
-[![Discord Status](https://lanyard.cnrad.dev/api/1188355759612903454)](https://discord.com/users/1188355759612903454)
-
+![Discord Status](https://lanyard.cnrad.dev/api/1199988776655443322?theme=dark&animated=true&hideDiscrim=true)
 
 *Ou me mande uma mensagem aqui pelo GitHub mesmo!*
 
