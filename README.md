@@ -31,10 +31,7 @@
 
 ### 📫 Como me encontrar
 
-<a href="https://discord.com/users/1188355759612903454" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none; background-color: #5865F2; color: white; padding: 8px 12px; border-radius: 6px; font-weight: 600; max-width: fit-content;">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="24" height="24" />
-  Rafax#XXXX
-</a>
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEU_ID_DO_DISCORD)
 
 *Ou me mande uma mensagem aqui pelo GitHub mesmo!*
 
