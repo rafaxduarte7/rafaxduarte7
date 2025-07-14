@@ -31,7 +31,10 @@
 
 ### 📫 Como me encontrar
 
-[![Discord](https://lanyard-profile-readme.vercel.app/api/1188355759612903454)](https://discord.com/users/1188355759612903454)
+<a href="https://discord.com/users/1188355759612903454" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none; background-color: #5865F2; color: white; padding: 8px 12px; border-radius: 6px; font-weight: 600; max-width: fit-content;">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="24" height="24" />
+  Rafax#XXXX
+</a>
 
 *Ou me mande uma mensagem aqui pelo GitHub mesmo!*
 
